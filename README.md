@@ -107,7 +107,7 @@ Start your server with `node server` to sync your MySQL database via the Sequeli
 
 ## Tests
 
-With your preferred API client, test each route with POST, GET, PUT, and DELETE to CRUD your database.
+With your preferred API client, test each route with POST, GET, PUT, and DELETE to perform RESTful CRUD operations on your database.
 
 ## Questions
 
